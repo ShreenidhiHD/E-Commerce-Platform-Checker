@@ -1,13 +1,13 @@
 {
-  "name": "store-checker",
+  "name": "E-Commerce-Platform-Checker",
   "version": "1.0.0",
-  "description": "",
+  "description": "A script for detecting the e-commerce platform used by a website and generating a report.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "ShreenidhiHD",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.4.0",
